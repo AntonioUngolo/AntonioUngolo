@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-	const CrazyChickenDev = {
+	const antonioUngolo = {
 		location: ["Venosa, Italy"],
     		contact: ["hello@antonioungolo.it"],
 		portfolio: ["https://www.antonioungolo.it"],
